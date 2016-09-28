@@ -1,3 +1,4 @@
+from local
 Scope(\) {
 	Method(_WAK) {
 		Store ("Hello World", Debug)
